@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CoreDemo\\CoreLayer\\CoreLayer.csproj": {}
+    "D:\\CoreDemoRepository\\CoreDemo\\CoreLayer\\CoreLayer.csproj": {}
   },
   "projects": {
-    "D:\\CoreDemo\\CoreLayer\\CoreLayer.csproj": {
+    "D:\\CoreDemoRepository\\CoreDemo\\CoreLayer\\CoreLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CoreDemo\\CoreLayer\\CoreLayer.csproj",
+        "projectUniqueName": "D:\\CoreDemoRepository\\CoreDemo\\CoreLayer\\CoreLayer.csproj",
         "projectName": "CoreLayer",
-        "projectPath": "D:\\CoreDemo\\CoreLayer\\CoreLayer.csproj",
+        "projectPath": "D:\\CoreDemoRepository\\CoreDemo\\CoreLayer\\CoreLayer.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\CoreDemo\\CoreLayer\\obj\\",
+        "outputPath": "D:\\CoreDemoRepository\\CoreDemo\\CoreLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

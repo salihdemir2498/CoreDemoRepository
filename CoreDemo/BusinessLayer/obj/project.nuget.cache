@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UCDgnlGs7+bYylojhw34W0tbB8DckL/PkuymUEZQEv9ju5Rmbct3fkTxSyeW3ezugCYAr8W1pOot03jxZwOraQ==",
+  "dgSpecHash": "rLos0sEZ5DZv2TN4AQG4etOVhGyVYGJp98O1DrQ/iSzyt5eueOqFiSZ5EO7xzGGEKf1Yfs9pMGRXtUsKuwevNg==",
   "success": true,
-  "projectFilePath": "D:\\CoreDemo\\BusinessLayer\\BusinessLayer.csproj",
+  "projectFilePath": "D:\\CoreDemoRepository\\CoreDemo\\BusinessLayer\\BusinessLayer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

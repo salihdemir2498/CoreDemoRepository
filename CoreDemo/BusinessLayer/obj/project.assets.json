@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CoreDemo\\BusinessLayer\\BusinessLayer.csproj",
+      "projectUniqueName": "D:\\CoreDemoRepository\\CoreDemo\\BusinessLayer\\BusinessLayer.csproj",
       "projectName": "BusinessLayer",
-      "projectPath": "D:\\CoreDemo\\BusinessLayer\\BusinessLayer.csproj",
+      "projectPath": "D:\\CoreDemoRepository\\CoreDemo\\BusinessLayer\\BusinessLayer.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\CoreDemo\\BusinessLayer\\obj\\",
+      "outputPath": "D:\\CoreDemoRepository\\CoreDemo\\BusinessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

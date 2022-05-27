@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CoreDemo\\CoreDemo\\CoreDemo.csproj": {}
+    "D:\\CoreDemoRepository\\CoreDemo\\CoreDemo\\CoreDemo.csproj": {}
   },
   "projects": {
-    "D:\\CoreDemo\\CoreDemo\\CoreDemo.csproj": {
+    "D:\\CoreDemoRepository\\CoreDemo\\CoreDemo\\CoreDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CoreDemo\\CoreDemo\\CoreDemo.csproj",
+        "projectUniqueName": "D:\\CoreDemoRepository\\CoreDemo\\CoreDemo\\CoreDemo.csproj",
         "projectName": "CoreDemo",
-        "projectPath": "D:\\CoreDemo\\CoreDemo\\CoreDemo.csproj",
+        "projectPath": "D:\\CoreDemoRepository\\CoreDemo\\CoreDemo\\CoreDemo.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\CoreDemo\\CoreDemo\\obj\\",
+        "outputPath": "D:\\CoreDemoRepository\\CoreDemo\\CoreDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
