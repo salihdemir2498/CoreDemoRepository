@@ -277,3 +277,6 @@ D:\CoreDemoRepository\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\Part
 D:\CoreDemoRepository\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Blog\BlogReadAll.cshtml.g.cs
 D:\CoreDemoRepository\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Comment\PartialAddComment.cshtml.g.cs
 D:\CoreDemoRepository\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Comment\CommentListByBlog.cshtml.g.cs
+D:\CoreDemoRepository\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\Components\CommentList\default.cshtml.g.cs
+D:\CoreDemoRepository\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\Components\CommentListByBlog\default.cshtml.g.cs
+D:\CoreDemoRepository\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\Components\CategoryList\default.cshtml.g.cs
