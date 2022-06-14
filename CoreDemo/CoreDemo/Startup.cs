@@ -66,7 +66,9 @@ namespace CoreDemo
             app.UseHttpsRedirection();
             app.UseStaticFiles();
 
-            app.UseSession();
+            app.UseAuthentication();
+
+            //app.UseSession();
 
             app.UseRouting();
 

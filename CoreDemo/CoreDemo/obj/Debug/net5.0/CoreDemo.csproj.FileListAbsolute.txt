@@ -295,3 +295,11 @@ D:\CoreDemoRepository\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Contact\Ind
 D:\CoreDemoRepository\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Writer\Index.cshtml.g.cs
 D:\CoreDemoRepository\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Writer\WriterProfile.cshtml.g.cs
 D:\CoreDemoRepository\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Writer\WriterMail.cshtml.g.cs
+D:\CoreDemoRepository\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\Components\BlogLast3Post\Default.cshtml.g.cs
+D:\CoreDemoRepository\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\WriterLayout.cshtml.g.cs
+D:\CoreDemoRepository\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Writer\Test.cshtml.g.cs
+D:\CoreDemoRepository\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Writer\WriterNavbarPartial.cshtml.g.cs
+D:\CoreDemoRepository\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Writer\WriterFooterPartial.cshtml.g.cs
+D:\CoreDemoRepository\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\Components\WriterMessageNotification\Default.cshtml.g.cs
+D:\CoreDemoRepository\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\Components\WriterNotification\Default.cshtml.g.cs
+D:\CoreDemoRepository\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Blog\BlogListByWriter.cshtml.g.cs
